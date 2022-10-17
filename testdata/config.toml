@@ -1,0 +1,19 @@
+[alpha]
+    hosts = ["alpha.host1", "alpha.host2"]
+    [alpha.database]
+    user = "user1"
+    password = "password1"
+    
+[beta]
+    hosts = ["beta.host1", "beta.host2"]
+
+    [beta.database]
+    user = "user2"
+    password = "password2"
+
+[gamma]
+    hosts = ["gamma.host1", "gamma.host2"]
+
+    [gamma.database]
+    user = "user3"
+    password = "password3"

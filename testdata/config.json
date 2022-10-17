@@ -1,0 +1,23 @@
+{
+    "alpha":{
+        "hosts":["alpha.json_host1", "alpha.json_host2"],
+        "database":{
+            "user":"json_user1",
+            "password":"json_password1"
+        }
+    },
+    "beta":{
+        "hosts":["beta.json_host1", "beta.json_host2"],
+        "database":{
+            "user":"json_user2",
+            "password":"json_password2"
+        }
+    },
+    "gamma":{
+        "hosts":["gamma.json_host1", "gamma.json_host2"],
+        "database":{
+            "user":"json_user3",
+            "password":"json_password3"
+        }
+    }
+}
